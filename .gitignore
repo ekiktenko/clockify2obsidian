@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Config files
+clockify_config.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
