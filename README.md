@@ -22,7 +22,7 @@ A Python script to sync time tracking entries from Clockify into your daily Obsi
 1. Make sure you have Python 3.9+ installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourname/clockify2obsidian.git
+   git clone https://github.com/ekiktenko/clockify2obsidian.git
    cd clockify2obsidian
    ```
 3. Install dependencies:
