@@ -1,6 +1,6 @@
 # ⏱ Clockify → Obsidian
 
-A Python script to sync time tracking entries from Clockify into your daily Obsidian Markdown notes.
+A Python script to sync time tracking entries from [Clockify](https://clockify.me/) into your daily [Obsidian](https://obsidian.md/) Markdown daily notes.
 
 ---
 
