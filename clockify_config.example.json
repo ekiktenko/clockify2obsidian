@@ -1,0 +1,6 @@
+{
+  "api_key": "MyClockifyApiKeyConsistedOfStrangeLettersAndNums",
+  "vault_path": "Obsidian/daily_notes",
+  "days_back": 3,
+  "time_zone": "Europe/Moscow"
+}
